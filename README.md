@@ -1,11 +1,12 @@
 # Hi  I'm Kitti Kaokaew<span type="placeholder" placeholder-type="person"></span> 👋
-
+คติประจำใจ
+จงทำเท่าที่ทำได้ ทุกอย่างจะดีขั้นเอง
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University Of Phayao   **<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in  Game Developmeant, Web Deployment, and Platform Development.
 - 🎯 Current Goal : I have an interest in website development; my goal is to build robust websites.
 - 💬 Ask me about : HTML, CSS, Python, Java, C 
-
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
